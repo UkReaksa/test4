@@ -2,7 +2,8 @@
 <template>
  
 
-<RouterView/>
+<h1>Hello</h1>
+<button>hello</button>
 </template>
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
